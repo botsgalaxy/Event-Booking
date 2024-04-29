@@ -1,6 +1,3 @@
-## A Go-Powered 'Event Booking'
-
-
 # Event Booking
 
 A Go-Powered 'Event Booking' Rest API 
